@@ -1,4 +1,4 @@
-# Test Talon.One plugin for Solidus
+# Talon.One plugin for Solidus
 
 This is the Solidus plugin for the promotion, coupon and referral egine [Talon.One](https://talon.one)
 It makes use of the [Talon.One Ruby SDK](https://github.com/talon-one/talon_one.rb).
